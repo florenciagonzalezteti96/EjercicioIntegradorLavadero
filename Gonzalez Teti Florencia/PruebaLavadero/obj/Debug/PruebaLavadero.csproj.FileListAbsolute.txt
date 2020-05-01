@@ -1,0 +1,10 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\obj\Debug\PruebaLavadero.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\obj\Debug\PruebaLavadero.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\bin\Debug\PruebaLavadero.exe.config
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\bin\Debug\PruebaLavadero.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\bin\Debug\PruebaLavadero.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\bin\Debug\Entidades.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\bin\Debug\Entidades.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\obj\Debug\PruebaLavadero.csproj.CopyComplete
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\obj\Debug\PruebaLavadero.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\PruebaLavadero\obj\Debug\PruebaLavadero.pdb

@@ -1,0 +1,6 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\bin\Debug\Entidades.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\obj\Debug\Entidades.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,14 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\bin\Debug\MiLavadero.exe.config
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\bin\Debug\MiLavadero.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\bin\Debug\MiLavadero.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\bin\Debug\Entidades.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\bin\Debug\Entidades.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.Properties.Resources.resources
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.csproj.GenerateResource.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.csproj.CopyComplete
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.AgregarVehiculo.resources
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\MiLavadero\obj\Debug\MiLavadero.FormLavadero.resources
